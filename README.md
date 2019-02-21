@@ -1,2 +1,2 @@
-# devloper
+# developer
 Developer Access
